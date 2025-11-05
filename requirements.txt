@@ -1,0 +1,8 @@
+selenium
+fastapi
+uvicorn
+python-dotenv
+beautifulsoup4
+langchain
+requests
+langchain-cloudflare
