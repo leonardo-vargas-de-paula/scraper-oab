@@ -6,3 +6,5 @@ beautifulsoup4
 langchain
 requests
 langchain-cloudflare
+pytesseract
+opencv-python
