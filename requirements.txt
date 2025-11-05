@@ -8,3 +8,4 @@ requests
 langchain-cloudflare
 pytesseract
 opencv-python
+pydantic
